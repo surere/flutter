@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222603460683",
+    "project_id": "netflix-clone-lecture-83223",
+    "storage_bucket": "netflix-clone-lecture-83223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222603460683:android:8a67027e22bfde8bf00dce",
+        "android_client_info": {
+          "package_name": "com.study.firebase.netflixex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDasmz47l7AlSCldinxSlO1UebNiqOQCFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
